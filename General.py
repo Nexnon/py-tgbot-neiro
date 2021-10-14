@@ -5,7 +5,7 @@ from Neiro import Calc_rezult
 import requests
 import os
 
-TOKEN = '1487519075:AAFhoZ1N3Nvd-OcQJfPA6nux80949uyxkn0'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
