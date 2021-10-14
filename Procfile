@@ -1,1 +1,1 @@
-worker: python General.py
+worker: python general.py
